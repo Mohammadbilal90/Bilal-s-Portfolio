@@ -1,0 +1,13 @@
+{
+  "name": "bilal-portfolio",
+  "version": "1.0.0",
+  "description": "Bilal's Professional Portfolio Website",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "build": "echo 'Static site - no build required'"
+  },
+  "keywords": ["portfolio", "web", "developer", "frontend"],
+  "author": "Bilal",
+  "license": "MIT"
+}
